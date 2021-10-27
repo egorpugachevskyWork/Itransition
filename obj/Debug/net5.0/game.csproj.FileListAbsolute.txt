@@ -1,0 +1,31 @@
+C:\Users\admin\Desktop\для отправки\task_3\game\game\bin\Debug\net5.0\game.exe
+C:\Users\admin\Desktop\для отправки\task_3\game\game\bin\Debug\net5.0\game.deps.json
+C:\Users\admin\Desktop\для отправки\task_3\game\game\bin\Debug\net5.0\game.runtimeconfig.json
+C:\Users\admin\Desktop\для отправки\task_3\game\game\bin\Debug\net5.0\game.runtimeconfig.dev.json
+C:\Users\admin\Desktop\для отправки\task_3\game\game\bin\Debug\net5.0\game.dll
+C:\Users\admin\Desktop\для отправки\task_3\game\game\bin\Debug\net5.0\ref\game.dll
+C:\Users\admin\Desktop\для отправки\task_3\game\game\bin\Debug\net5.0\game.pdb
+C:\Users\admin\Desktop\для отправки\task_3\game\game\obj\Debug\net5.0\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\для отправки\task_3\game\game\obj\Debug\net5.0\game.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\для отправки\task_3\game\game\obj\Debug\net5.0\game.AssemblyInfo.cs
+C:\Users\admin\Desktop\для отправки\task_3\game\game\obj\Debug\net5.0\game.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\для отправки\task_3\game\game\obj\Debug\net5.0\game.dll
+C:\Users\admin\Desktop\для отправки\task_3\game\game\obj\Debug\net5.0\ref\game.dll
+C:\Users\admin\Desktop\для отправки\task_3\game\game\obj\Debug\net5.0\game.pdb
+C:\Users\admin\Desktop\для отправки\task_3\game\game\obj\Debug\net5.0\game.genruntimeconfig.cache
+C:\Users\admin\Desktop\forSending\task_3\game\bin\Debug\net5.0\game.exe
+C:\Users\admin\Desktop\forSending\task_3\game\bin\Debug\net5.0\game.deps.json
+C:\Users\admin\Desktop\forSending\task_3\game\bin\Debug\net5.0\game.runtimeconfig.json
+C:\Users\admin\Desktop\forSending\task_3\game\bin\Debug\net5.0\game.runtimeconfig.dev.json
+C:\Users\admin\Desktop\forSending\task_3\game\bin\Debug\net5.0\game.dll
+C:\Users\admin\Desktop\forSending\task_3\game\bin\Debug\net5.0\ref\game.dll
+C:\Users\admin\Desktop\forSending\task_3\game\bin\Debug\net5.0\game.pdb
+C:\Users\admin\Desktop\forSending\task_3\game\obj\Debug\net5.0\game.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\forSending\task_3\game\obj\Debug\net5.0\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\forSending\task_3\game\obj\Debug\net5.0\game.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\forSending\task_3\game\obj\Debug\net5.0\game.AssemblyInfo.cs
+C:\Users\admin\Desktop\forSending\task_3\game\obj\Debug\net5.0\game.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\forSending\task_3\game\obj\Debug\net5.0\game.dll
+C:\Users\admin\Desktop\forSending\task_3\game\obj\Debug\net5.0\ref\game.dll
+C:\Users\admin\Desktop\forSending\task_3\game\obj\Debug\net5.0\game.pdb
+C:\Users\admin\Desktop\forSending\task_3\game\obj\Debug\net5.0\game.genruntimeconfig.cache
